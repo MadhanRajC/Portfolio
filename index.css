@@ -536,11 +536,11 @@ section {
 }
 
 .project-content {
-    padding: 1.5rem;
+    padding: 2rem;
 }
 
 .project-title {
-    font-size: 1.3rem;
+    font-size: 1.4rem;
     font-weight: 700;
     color: var(--text-primary);
     margin-bottom: 0.5rem;
@@ -598,7 +598,7 @@ section {
 }
 
 .contact-info h3 {
-    font-size: 1.5rem;
+    font-size: 1.6rem;
     color: var(--text-primary);
     margin-bottom: 1rem;
 }
